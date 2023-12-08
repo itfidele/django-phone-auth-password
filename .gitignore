@@ -1,0 +1,17 @@
+env/
+db.sqlite3
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Sublime Text
+.sublime-project
+
+# SASS
+.sass-cache/
+
